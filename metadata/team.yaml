@@ -4,16 +4,16 @@
 # - If your team has 4 members: provide all 4 members.
 
 team:
-  team_id: ""
-  name: ""
-  repository: "" # URL of the newly created GitHub repository for this project
+  team_id: "67A"
+  name: "Dynamic Duo"
+  repository: "https://github.com/itsAbi07/Buildsecure.git" # URL of the newly created GitHub repository for this project
 
 members:
-  - name: ""
-    email: ""
-  - name: ""
-    email: ""
-  - name: ""
-    email: ""
-  - name: ""
-    email: ""
+  - name: "Havilah"
+    email: "havilah@gmail.com"
+  - name: "Nandhan"
+    email: "25p61a6222@vbithyd.ac.in"
+  - name: "Abhishek"
+    email: "kanaparthyabhishek@gmail.com"
+  - name: "Nikshitha"
+    email: "25p61a6231@vbithyd.ac.in"
